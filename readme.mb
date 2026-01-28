@@ -1,0 +1,20 @@
+Entendido, Marcos! Essa é uma ótima solução: o README.md serve como o "cartão de visitas" que o GitHub lê automaticamente, e os outros dois arquivos ficam lá para quem quiser baixar e levar.
+
+Aqui está o conteúdo para o seu README.md (copie e cole exatamente assim):
+
+🚀 CRUD em COBOL - TI das Antigas
+Bem-vindo ao repositório do projeto apresentado no canal TI das Antigas! Aqui demonstramos como o COBOL, uma linguagem de 1959, continua sendo uma solução extremamente eficiente e estável para processamento de dados em 2026.
+
+📁 O que você encontra aqui:
+Para facilitar o seu aprendizado e teste, disponibilizei dois arquivos principais neste repositório:
+
+crud5.cbl: O código-fonte original do sistema de cadastro (CRUD) mostrado no vídeo.
+
+README.pdf: Um guia completo em formato PDF com o passo a passo detalhado de como configurar o ambiente, instalar o compilador GnuCOBOL e os comandos para rodar o sistema no Windows e Linux.
+
+🛠️ Como começar:
+Baixe o código: Faça o download do arquivo crud5.cbl.
+
+Siga o Manual: Abra o README.pdf para ver as instruções de instalação e os comandos de compilação:
+
+cobc -x -free crud5.cbl -o crud
